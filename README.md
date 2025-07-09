@@ -1,2 +1,4 @@
 # auPlant
-Project for the course IOT on the UFRO. Plant connection to Blynk.io
+Project for the course IOT on the UFRO.
+
+This project uses MQTT and WIFIProv for wifi connection
